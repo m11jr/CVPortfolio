@@ -184,4 +184,115 @@ font-family: 'Courier New', Courier, monospace;
     box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
     border: 2px solid rgba(227, 228, 237, 0.18);
 }
+
+
+.middlebar-sec{
+    height: 250px;
     
+    
+    border: 2px solid #222831;
+    border-radius: 12px;
+    margin: 10px 70px 0px 70px;
+}
+
+.middlebar-sec h3{
+    font-family: "Playwrite NG Modern";
+    text-align: center;
+
+}
+
+.Social-Media{
+    padding: 0 10px 10px 10px;
+    
+}
+
+.Instagram{
+    text-decoration: none;
+}
+.Instagram:hover , .Instagram:focus{
+    
+  
+}
+
+#InstaText{
+    width: 75px;
+    margin-top: 5px;
+    margin-left: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#InstaText:hover , #InstaText:focus{
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 2px solid rgba(227, 228, 237, 0.18);
+}
+
+
+.Linkedin{
+    text-decoration: none;
+}
+.Instagram:hover , .Instagram:focus{
+    
+  
+}
+
+#LinkeText{
+    width: 65px;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#LinkeText:hover , #LinkeText:focus{
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 2px solid rgba(227, 228, 237, 0.18);
+}
+
+.Social-Media{
+    display: flex;
+    gap: 30px;
+}
+
+
+.Whatsapp{
+    text-decoration: none;
+}
+.Instagram:hover , .Instagram:focus{
+    
+  
+}
+
+#WhatText{
+    width: 75px;
+    margin-top: 5px;
+    margin-left: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#WhatText:hover , #WhatText:focus{
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 2px solid rgba(227, 228, 237, 0.18);
+}
+
+
+.Github{
+    text-decoration: none;
+    
+}
+.Instagram:hover , .Instagram:focus{
+    
+  
+}
+
+#GitText{
+    width: 50px;
+    margin-top: 5px;
+    margin-left: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#GitText:hover , #GitText:focus{
+    box-shadow: 0px 0px 30px rgba(227, 228, 237, 0.37);
+    border: 2px solid rgba(227, 228, 237, 0.18);
+}
+
+.Social{
+    justify-content: center;
+    display: flex;
+    
+}
